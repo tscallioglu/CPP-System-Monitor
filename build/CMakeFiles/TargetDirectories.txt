@@ -1,0 +1,3 @@
+/home/tolga/Documents/Cpp-System-Monitor/build/CMakeFiles/monitor.dir
+/home/tolga/Documents/Cpp-System-Monitor/build/CMakeFiles/edit_cache.dir
+/home/tolga/Documents/Cpp-System-Monitor/build/CMakeFiles/rebuild_cache.dir
